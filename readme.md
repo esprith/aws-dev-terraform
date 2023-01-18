@@ -4,7 +4,7 @@ https://developer.hashicorp.com/terraform/tutorials/aws-get-started/infrastructu
 ## install
 more straightforward on ubuntu distro
 
-## assets
+## code assets
 main.tf
 variables.tf
 secrets.tfvars
